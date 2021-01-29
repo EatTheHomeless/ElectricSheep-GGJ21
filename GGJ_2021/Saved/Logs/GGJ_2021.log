@@ -710,3 +710,64 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.29-19.03.16:316][939]LogSavePackage: Moving 'C:/Users/terry/Desktop/GGJ 21/GGJ_2021/Saved/ThirdPersonExampleMapF123829748DB2852FE69348E212A9711.tmp' to 'C:/Users/terry/Desktop/GGJ 21/GGJ_2021/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2021.01.29-19.03.16:424][939]LogSavePackage: Moving 'C:/Users/terry/Desktop/GGJ 21/GGJ_2021/Saved/ThirdPersonExampleMap_BuiltDataAA3601534C9927A1ED95EAB1A06A16A4.tmp' to 'C:/Users/terry/Desktop/GGJ 21/GGJ_2021/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
 [2021.01.29-19.03.18:031][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.01.29-19.03.48:530][281]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.01.29-19.03.50:367][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.29-19.03.50:525][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.01.29-19.03.50:619][515]LogSavePackage: Moving 'C:/Users/terry/Desktop/GGJ 21/GGJ_2021/Saved/ThirdPersonExampleMap5E3A224147579DFBF700BCB512B29C45.tmp' to 'C:/Users/terry/Desktop/GGJ 21/GGJ_2021/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.29-19.03.50:725][515]LogSavePackage: Moving 'C:/Users/terry/Desktop/GGJ 21/GGJ_2021/Saved/ThirdPersonExampleMap_BuiltData62FEE2D645B17CA0AE6D268916E093AB.tmp' to 'C:/Users/terry/Desktop/GGJ 21/GGJ_2021/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.29-19.04.04:481][894]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.29-19.04.05:827][ 46]Cmd: DELETE
+[2021.01.29-19.04.05:827][ 46]Cmd: ACTOR DELETE
+[2021.01.29-19.04.05:828][ 46]LogEditorActor: Deleted Actor: Brush
+[2021.01.29-19.04.05:844][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.01.29-19.04.05:846][ 46]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2021.01.29-19.04.07:469][241]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.29-19.04.07:625][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.01.29-19.04.07:709][257]LogSavePackage: Moving 'C:/Users/terry/Desktop/GGJ 21/GGJ_2021/Saved/ThirdPersonExampleMap71106F7E44DBC691408511AF19310BCE.tmp' to 'C:/Users/terry/Desktop/GGJ 21/GGJ_2021/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.29-19.04.07:810][257]LogSavePackage: Moving 'C:/Users/terry/Desktop/GGJ 21/GGJ_2021/Saved/ThirdPersonExampleMap_BuiltData2B970B684B74454D1746FFA7FCA8997D.tmp' to 'C:/Users/terry/Desktop/GGJ 21/GGJ_2021/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.29-19.04.26:402][755]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.01.29-19.04.53:841][ 37]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.29-19.04.53:844][ 37]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.29-19.05.26:314][866]LogSlate: Window 'Editor Preferences' being destroyed
+[2021.01.29-19.05.31:208][371]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.01.29-19.06.39:884][557]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.29-19.06.46:207][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2021.01.29-19.07.00:921][ 67]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.29-19.07.18:693][215]LogSlate: Window 'Save Level As' being destroyed
+[2021.01.29-19.07.19:045][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2021.01.29-19.07.19:110][215]LogAIModule: Creating AISystem for world Tech_Test
+[2021.01.29-19.07.19:116][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Tech_Test" FILE="C:/Users/terry/Desktop/GGJ 21/GGJ_2021/Content/Levels/Tech_Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.29-19.07.19:139][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.01.29-19.07.19:228][215]LogSavePackage: Moving 'C:/Users/terry/Desktop/GGJ 21/GGJ_2021/Saved/Tech_Test90F1817D4560092251F2D381CBFCE057.tmp' to 'C:/Users/terry/Desktop/GGJ 21/GGJ_2021/Content/Levels/Tech_Test.umap'
+[2021.01.29-19.07.19:234][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Tech_Test_BuiltData" FILE="C:/Users/terry/Desktop/GGJ 21/GGJ_2021/Content/Levels/Tech_Test_BuiltData.uasset" SILENT=true
+[2021.01.29-19.07.19:330][215]LogSavePackage: Moving 'C:/Users/terry/Desktop/GGJ 21/GGJ_2021/Saved/Tech_Test_BuiltData543E77ED43E7A6AB1CBC6EA07F93C29D.tmp' to 'C:/Users/terry/Desktop/GGJ 21/GGJ_2021/Content/Levels/Tech_Test_BuiltData.uasset'
+[2021.01.29-19.07.19:335][215]LogFileHelpers: Saving map 'Tech_Test' took 0.637
+[2021.01.29-19.07.19:336][215]Cmd: MAP LOAD FILE="C:/Users/terry/Desktop/GGJ 21/GGJ_2021/Content/Levels/Tech_Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.29-19.07.19:343][215]LightingResults: New page: Lighting Build
+[2021.01.29-19.07.19:343][215]LoadErrors: New page: Loading map: Tech_Test.umap
+[2021.01.29-19.07.19:347][215]MapCheck: New page: Map Check
+[2021.01.29-19.07.19:347][215]LightingResults: New page: Lighting Build
+[2021.01.29-19.07.19:364][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2021.01.29-19.07.19:378][215]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.29-19.07.19:394][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.01.29-19.07.19:421][215]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.29-19.07.19:421][215]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.119ms to complete.
+[2021.01.29-19.07.19:421][215]LogFileHelpers: Loading map 'Tech_Test' took 0.087
+[2021.01.29-19.07.21:027][389]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/Tech_Test.Tech_Test
+[2021.01.29-19.07.21:043][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.01.29-19.07.21:044][389]Cmd: MAP LOAD FILE="C:/Users/terry/Desktop/GGJ 21/GGJ_2021/Content/Levels/Tech_Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.29-19.07.21:044][389]LightingResults: New page: Lighting Build
+[2021.01.29-19.07.21:044][389]LoadErrors: New page: Loading map: Tech_Test.umap
+[2021.01.29-19.07.21:045][389]MapCheck: New page: Map Check
+[2021.01.29-19.07.21:045][389]LightingResults: New page: Lighting Build
+[2021.01.29-19.07.21:063][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.01.29-19.07.21:077][389]LogAIModule: Creating AISystem for world Tech_Test
+[2021.01.29-19.07.21:086][389]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.29-19.07.21:101][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.01.29-19.07.21:125][389]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.29-19.07.21:125][389]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.114ms to complete.
+[2021.01.29-19.07.21:126][389]LogFileHelpers: Loading map 'Tech_Test' took 0.083
+[2021.01.29-19.07.23:104][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.01.29-19.07.32:366][648]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.29-19.07.32:368][648]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.29-19.07.34:327][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
