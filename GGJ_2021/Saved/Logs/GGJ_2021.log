@@ -700,3 +700,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.29-18.59.03:035][108]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2021.01.29-18.59.32:984][576]SourceControl: Source control is disabled
 [2021.01.29-18.59.32:984][576]LogSlate: Window 'Source Control Login' being destroyed
+[2021.01.29-19.03.15:297][840]Cmd: DELETE
+[2021.01.29-19.03.15:297][840]Cmd: ACTOR DELETE
+[2021.01.29-19.03.15:354][840]LogEditorActor: Deleted Actor: Brush
+[2021.01.29-19.03.15:382][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.01.29-19.03.15:384][840]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2021.01.29-19.03.16:091][925]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.29-19.03.16:230][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.01.29-19.03.16:316][939]LogSavePackage: Moving 'C:/Users/terry/Desktop/GGJ 21/GGJ_2021/Saved/ThirdPersonExampleMapF123829748DB2852FE69348E212A9711.tmp' to 'C:/Users/terry/Desktop/GGJ 21/GGJ_2021/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.29-19.03.16:424][939]LogSavePackage: Moving 'C:/Users/terry/Desktop/GGJ 21/GGJ_2021/Saved/ThirdPersonExampleMap_BuiltDataAA3601534C9927A1ED95EAB1A06A16A4.tmp' to 'C:/Users/terry/Desktop/GGJ 21/GGJ_2021/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.29-19.03.18:031][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
